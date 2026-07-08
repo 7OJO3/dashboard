@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "embed_color": "#2F3136",
+    "prefix": "!"
+  },
+  "images": {
+    "panel_banner": "https://cdn.discordapp.com/attachments/1501300022808023351/1524382837644591256/IMG_8624.png?ex=6a4f8ba6&is=6a4e3a26&hm=6b356eb8cd72d8b09c5d88b318802a89629f68d9a8eae01743edcc3e6e8ee863"
+  },
+  "messages": {
+    "error_not_in_vc": "يجب أن تكون داخل روم صوتي لاستخدام هذا الأمر.",
+    "success_rename": "✅ تم تغيير اسم الروم إلى: **{name}**"
+  }
+}
